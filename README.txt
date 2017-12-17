@@ -1,4 +1,4 @@
-Code Couleur - par Antoine FLORENTIN
+Code Couleur
 
 recherche de la valeur d'une resistance par son code couleur
 
