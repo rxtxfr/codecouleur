@@ -1,5 +1,5 @@
-Code Couleur
-------------
+Code Couleur des résistances
+----------------------------
 
 recherche de la valeur d'une resistance par son code couleur
 
