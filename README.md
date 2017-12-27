@@ -3,6 +3,8 @@ Code Couleur
 
 recherche de la valeur d'une resistance par son code couleur
 
+![Application screenshot](/code_couleur.png?raw=true)
+
 Installation :
 --------------
 
